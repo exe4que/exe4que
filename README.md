@@ -57,7 +57,7 @@ Here are some ideas to get you started: -->
 <td width="50%">
 <h3 align="center">Other Cool projects and Jams</h3>
 <div align="center">
-<a href="http://exe4que.blogspot.com/" target="_blank"><img src="./trie_thumbnail.png" width="400" alt="Temple Run - Idle Explorers"></a>
+<a href="http://exe4que.blogspot.com/" target="_blank"><img src="./other_projects_thumbnail.jpg" width="400" alt="Temple Run - Idle Explorers"></a>
 <br>
 <p>I love participating in game jams and embarking in exiting personal projects and experiments. Also, I often work for other clients on my own.</p>
 </div>
