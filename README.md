@@ -41,8 +41,7 @@ Here are some ideas to get you started: -->
 <br>
 <p>I developed mostly every gameplay mechanic, every vfx and shader and also part of the UI!</p>
 </div>
-</td>
-                                                                                  
+</td>                                                                               
 
 <td width="50%">
 <h3 align="center">Teratopia</h3>
@@ -52,7 +51,19 @@ Here are some ideas to get you started: -->
 <p>We developed this game with a small team and I worked on every part of the game including AI and editor tools. Also I participated in its porting to XBOX One consoles.</p>
 </div>    
 </td>
-  
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Other Cool projects and Jams</h3>
+<div align="center">
+<a href="http://exe4que.blogspot.com/" target="_blank"><img src="./trie_thumbnail.png" width="400" alt="Temple Run - Idle Explorers"></a>
+<br>
+<p>I love participating in game jams and embarking in exiting personal projects and experiments. Also, I often work for other clients on my own.</p>
+</div>
+</td>
+</tr>
+
 </table>
 
 ## 🛠️ Technologies and Tools I use:
