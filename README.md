@@ -58,15 +58,17 @@ Here are some ideas to get you started: -->
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=%23000000">
-<img alt="C-Sharp" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=dotnet&color=%23512BD4">
-<img alt="Godot" src="https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine&logoColor=%23478CBF&color=%23FFFFFF">
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="JSON" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&color=%23FF791A">
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<a href="https://unity.com/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&color=%23000000">
+<a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"><<img alt="C-Sharp" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=dotnet&color=%23512BD4">
+<a href="https://godotengine.org/" target="_blank"><img alt="Godot" src="https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine&logoColor=%23478CBF&color=%23FFFFFF">
+<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<a href="https://es.wikipedia.org/wiki/JSON" target="_blank"><img alt="JSON" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&color=%23FF791A">
+<a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank"><img alt="HLSL" src="https://img.shields.io/badge/Shader%20language-red?label=HLSL">
+<a href="https://github.com/modesttree/Zenject" target="_blank"><img alt="Zenject" src="https://img.shields.io/badge/Zenject-lime">
+<a href="https://es.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<a href="https://es.wikipedia.org/wiki/CSS" target="_blank"><img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
