@@ -31,6 +31,30 @@ Here are some ideas to get you started: -->
 
 - ⚡ Fun fact: `Two hours of mindless debugging can save you up to five minutes reading documentation! 👍 (just read the docs)`
 
+## Cool games I worked on
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Temple Run - Idle Explorers</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=NEIBdJp0r2Y" target="_blank"><img src="./trie_thumbnail.png" width="400" alt="Temple Run - Idle Explorers"></a>
+<br>
+<p>I developed mostly every gameplay mechanic, every vfx and shader and also part of the UI!</p>
+</div>
+</td>
+                                                                                  
+
+<td width="50%">
+<h3 align="center">Teratopia</h3>
+<div align="center">                                       
+<a href="https://store.steampowered.com/app/1338100/Teratopia/" target="_blank"><img src="./teratopia_thumbnail.jpg" width="400" alt="Teratopia"></a>
+<br>
+<p>We developed this game with a small team and I worked on every part of the game including AI and editor tools. Also I participated in its porting to XBOX One consoles.</p>
+</div>    
+</td>
+  
+</table>
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
@@ -52,6 +76,9 @@ Here are some ideas to get you started: -->
 
 ## 📊 My GitHub Data:
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=exe4que&show_icons=true" />
-</div>
+<p>
+<a href="https://github.com/exe4que">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exe4que&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exe4que&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
