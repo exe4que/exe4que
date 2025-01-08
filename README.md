@@ -54,14 +54,25 @@ Here are some ideas to get you started: -->
 </tr>
 
 <tr>
+
+<td width="50%">
+<h3 align="center">Om Nom Run 3</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=R7KFzg9bQso" target="_blank"><img src="./omnom_run_thumbnail.jpg" width="400" alt="Om Nom Run 3"></a>
+<br>
+<p>For this project I was in charge of coming up with the project architecture and tackling all the gameplay related problems. I think I really shined with this one.</p>
+</div>
+</td>
+  
 <td width="50%">
 <h3 align="center">Other Cool projects and Jams</h3>
 <div align="center">
-<a href="http://exe4que.blogspot.com/" target="_blank"><img src="./other_projects_thumbnail.jpg" width="400" alt="Temple Run - Idle Explorers"></a>
+<a href="http://exe4que.blogspot.com/" target="_blank"><img src="./other_projects_thumbnail.jpg" width="400" alt=">Other Cool projects and Jams"></a>
 <br>
 <p>I love participating in game jams and embarking in exiting personal projects and experiments. Also, I often work for other clients on my own.</p>
 </div>
 </td>
+
 </tr>
 
 </table>
