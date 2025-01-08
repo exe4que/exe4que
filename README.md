@@ -34,6 +34,16 @@ Here are some ideas to get you started: -->
 ## Cool games I worked on
 <table>
 <tr>
+
+<td width="50%">
+<h3 align="center">Om Nom Run 3</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=R7KFzg9bQso" target="_blank"><img src="./omnom_run_thumbnail.png" width="400" alt="Om Nom Run 3"></a>
+<br>
+<p>For this project I was in charge of coming up with the project architecture and tackling all the gameplay related problems. I think I really shined with this one.</p>
+</div>
+</td>
+  
 <td width="50%">
 <h3 align="center">Temple Run - Idle Explorers</h3>
 <div align="center">
@@ -43,6 +53,10 @@ Here are some ideas to get you started: -->
 </div>
 </td>                                                                               
 
+</tr>
+
+<tr>
+
 <td width="50%">
 <h3 align="center">Teratopia</h3>
 <div align="center">                                       
@@ -50,18 +64,6 @@ Here are some ideas to get you started: -->
 <br>
 <p>We developed this game with a small team and I worked on every part of the game including AI and editor tools. Also I participated in its porting to XBOX One consoles.</p>
 </div>    
-</td>
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3 align="center">Om Nom Run 3</h3>
-<div align="center">
-<a href="https://www.youtube.com/watch?v=R7KFzg9bQso" target="_blank"><img src="./omnom_run_thumbnail.png" width="400" alt="Om Nom Run 3"></a>
-<br>
-<p>For this project I was in charge of coming up with the project architecture and tackling all the gameplay related problems. I think I really shined with this one.</p>
-</div>
 </td>
   
 <td width="50%">
