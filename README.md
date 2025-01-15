@@ -67,7 +67,8 @@ Here are some ideas to get you started: -->
 </td>
   
 <td width="50%">
-<h3 align="center">Other Cool projects and Jams</h3>
+<h3 align="center">Other Cool projects and Jams.</h3>
+<h3 align="center">Check them out! I have a ton!.</h3>
 <div align="center">
 <a href="http://exe4que.blogspot.com/" target="_blank"><img src="./other_projects_thumbnail.jpg" width="400" alt=">Other Cool projects and Jams"></a>
 <br>
