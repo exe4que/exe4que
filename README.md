@@ -47,7 +47,7 @@ Here are some ideas to get you started: -->
 <td width="50%">
 <h3 align="center">Temple Run - Idle Explorers</h3>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=NEIBdJp0r2Y" target="_blank"><img src="./trie_thumbnail.png" width="400" alt="Temple Run - Idle Explorers"></a>
+<a href="https://exe4que.blogspot.com/2021/11/a.html" target="_blank"><img src="./trie_thumbnail.png" width="400" alt="Temple Run - Idle Explorers"></a>
 <br>
 <p>I developed mostly every gameplay mechanic, every vfx and shader and also part of the UI!</p>
 </div>
