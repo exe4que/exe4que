@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Linkedin](https://www.linkedin.com/in/exequielquatroque/)**
 
-- 🕹️ I’m currently working at [`Bigfoot Gaming`](http://bigfootgaming.net/).
+- 🕹️ I’m currently working at [`Trick Studios`](https://www.trickgs.com/).
 
 - 🌱 I’m currently learning `Shaders stuff`
 
